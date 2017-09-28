@@ -3,6 +3,13 @@
 <h1>Description</h1>
 <p>To translate the given text into any language</p>
 
+<h2>Languages and Modules</h2>
+<ul>
+  <li>Django</li>
+  <li>Django REST framework : http://www.django-rest-framework.org/</li>
+  <li>googletrans : https://pypi.python.org/pypi/googletrans</li>
+</ul>
+
 <h2>How To Test</h2>
 <p>send the HTTP 'POST' message to the following url pattern </p>
 <p>http://[address:port]/api/translator</p>
