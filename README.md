@@ -25,6 +25,8 @@
   <li>Go to the following url in browser "http://127.0.0.1:[portno]/translator/"</li>
   <li>Type in POST json format - {"text":"How are you", "dest":"de"} in the content</li>
   <li>Click on the "POST</li>
+  <li>OR</li>
+  <li>curl -H "Content-Type: application/json" -X POST -d '{"text":"How are you", "dest":"de"}' http://localhost:[portNo]/translator/</li>
 </ol>
 
 <h2>Language Codes</h2>
