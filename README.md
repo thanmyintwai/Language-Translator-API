@@ -53,72 +53,71 @@
   <li>eo for Esperanto</li>
   <li>es for Spanish</li>
   <li>es-ar for Argentinian Spanish</li>
- <li>('es-co', 'Colombian Spanish')</li>
- <li>('es-mx', 'Mexican Spanish')</li>
- <li>('es-ni', 'Nicaraguan Spanish')</li>
- <li>('es-ve', 'Venezuelan Spanish')</li>
- <li>('et', 'Estonian')</li>
- <li>('eu', 'Basque')</li>
- <li>('fa', 'Persian')</li>
- <li>('fi', 'Finnish')</li>
- <li>('fr', 'French')</li>
- <li>('fy', 'Frisian')</li>
- <li>('ga', 'Irish')</li>
- <li>('gd', 'Scottish Galic')</li>
- <li>('gl', 'Galician')</li>
- <li>('he', 'Hebrew')</li>
- <li>('hi', 'Hindi')</li>
- <li>('hr', 'Croatian')</li>
- <li>('hsb', 'Upper Sorbian')</li>
- <li>('hu', 'Hungarian')</li>
- <li>('ia', 'Interlingua')</li>
- <li>('id', 'Indonesian')</li>
- <li>('io', 'Ido')</li>
- <li>('is', 'Icelandic')</li>
- <li>('it', 'Italian')</li>
- <li>('ja', 'Japanese')</li>
- <li>('ka', 'Georgian')</li>
- <li>('kk', 'Kazakh')</li>
- <li>('km', 'Khmer')</li>
- <li>('kn', 'Kannada')</li>
- <li>('ko', 'Korean')</li>
- <li>('lb', 'Luxembourgish')</li>
- <li>('lt', 'Lithuanian')</li>
- <li>('lv', 'Latvian')</li>
- <li>('mk', 'Macedonian')</li>
- <li>('ml', 'Malayalam')</li>
- <li>('mn', 'Mongolian')</li>
- <li>('mr', 'Marathi')</li>
- <li>('my', 'Burmese')</li>
- <li>('nb', 'Norwegian Bokmål')</li>
- <li>('ne', 'Nepali')</li>
- <li>('nl', 'Dutch')</li>
- <li>('nn', 'Norwegian Nynorsk')</li>
- <li>('os', 'Ossetic')</li>
- <li>('pa', 'Punjabi')</li>
- <li>('pl', 'Polish')</li>
- <li>('pt', 'Portuguese')</li>
- <li>('pt-br', 'Brazilian Portuguese')</li>
- <li>('ro', 'Romanian')</li>
- <li>('ru', 'Russian')</li>
- <li>('sk', 'Slovak')</li>
- <li>('sl', 'Slovenian')</li>
- <li>('sq', 'Albanian')</li>
- <li>('sr', 'Serbian')</li>
- <li>('sr-latn', 'Serbian Latin')</li>
- <li>('sv', 'Swedish')</li>
- <li>('sw', 'Swahili')</li>
- <li>('ta', 'Tamil')</li>
- <li>('te', 'Telugu')</li>
- <li>('th', 'Thai')</li>
- <li>('tr', 'Turkish')</li>
- <li>('tt', 'Tatar')</li>
- <li>('udm', 'Udmurt')</li>
- <li>('uk', 'Ukrainian')</li>
- <li>('ur', 'Urdu')</li>
- <li>('vi', 'Vietnamese')</li>
- <li>('zh-hans', 'Simplified Chinese')</li>
- <li>('zh-hant', 'Traditional Chinese')</li>
-
+ <li>es-co for Colombian Spanish</li>
+ <li>es-mx for Mexican Spanish</li>
+ <li>es-ni for Nicaraguan Spanish</li>
+ <li>es-ve for Venezuelan Spanish</li>  
+ <li>et for Estonian</li>
+ <li>eu for Basque</li>
+ <li>fa for Persian</li>
+ <li>fi for Finnish</li>
+ <li>fr for French</li>
+ <li>fy for Frisian</li>
+ <li>ga for Irish</li>
+ <li>gd for Scottish Galic</li>
+ <li>gl for Galician</li>
+ <li>he for Hebrew</li>
+ <li>hi for Hindi</li>
+ <li>hr for Croatian</li>
+ <li>hsb for Upper Sorbian</li>
+ <li>hu for Hungarian</li>
+ <li>ia for Interlingua</li>
+ <li>id for Indonesian</li>
+ <li>io for Ido</li>
+ <li>is for Icelandic</li>
+ <li>it for Italian</li>
+ <li>ja for Japanese</li>
+ <li>ka for Georgian</li>
+ <li>kk for Kazakh</li>
+ <li>km for Khmer</li>
+ <li>kn for Kannada</li>
+ <li>ko for Korean</li>
+ <li>lb for Luxembourgish</li>
+ <li>lt for Lithuanian</li>
+ <li>lv for Latvian</li>
+ <li>mk for Macedonian</li>
+ <li>ml for Malayalam</li>
+ <li>mn for Mongolian</li> for 
+ <li>mr for Marathi</li>
+ <li>my for Burmese</li>
+ <li>nb for Norwegian Bokmål</li>
+ <li>ne for Nepali</li>
+ <li>nl for Dutch</li>
+ <li>nn for Norwegian Nynorsk</li>
+ <li>os for Ossetic</li>
+ <li>pa for Punjabi</li>
+ <li>pl for Polish</li>
+ <li>pt for Portuguese</li>
+ <li>pt-br for Brazilian Portuguese</li>
+ <li>ro for Romanian</li>
+ <li>ru for Russian</li>
+ <li>sk for Slovak</li>
+ <li>sl for Slovenian</li>
+ <li>sq for Albanian</li>
+ <li>sr for Serbian</li>
+ <li>sr-latn for Serbian Latin</li>
+ <li>sv for Swedish</li>
+ <li>sw for Swahili</li>
+ <li>ta for Tamil</li>
+ <li>te for Telugu</li>
+ <li>th for Thai</li>
+ <li>tr for Turkish</li>
+ <li>tt for Tatar</li>
+ <li>udm for Udmurt</li>
+ <li>uk for Ukrainian</li>
+ <li>ur for Urdu</li>
+ <li>vi for Vietnamese</li>
+ <li>zh-hans for Simplified Chinese</li>
+ <li>zh-hant for Traditional Chinese</li>
 </ul>
 
