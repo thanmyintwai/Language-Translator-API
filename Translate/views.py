@@ -26,9 +26,12 @@ class TranslateView(APIView):
                 org = org.split(',')
                 org = org[2].split('=')
                 org = org[1]
+                
+            message = { 'original message' : text, 'translated message' : org }
 
             #return Response({"original message = {} & translated message = {} ".format(request.data+text, org)})
-            return Response({"original message = {} & translated message = {} ".format(text, org)})
+            #return Response({"original message = {} & translated message = {} ".format(text, org)})
             #return Response({"message": "Hello {}, you are {} year old".format(name, age)})
+            return Response(message)
         else:
             return Response({"error": serializer.errors})
